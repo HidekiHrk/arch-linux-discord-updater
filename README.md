@@ -1,0 +1,1 @@
+# arch-linux-discord-updater
